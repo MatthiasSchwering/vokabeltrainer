@@ -72,7 +72,12 @@ const vokabeln = {
     "Einzelhändler / Wiederverkäufer" : "retailer",
     "Arbeitsgruppe" : "focus group",
     "Nachfassaktion" : "follow-up",
-    "Werbeaktion, die bei anderen mitläuft" : "piggyback mailshot"
+    "Werbeaktion, die bei anderen mitläuft" : "piggyback mailshot",
+    "(Zeitschriften-) Anzeige" : "advertisement",
+    "Vermarktung" : "promotion",
+    "Kundenpflege" : "customer care",
+    "Geschäft mit Vollsortiment" : "one-stop-shop",
+    "Marketing Maßnahmen" : "marketing measures" 
 }
 console.log(localStorage.getItem("notAsked"));
 console.log(localStorage.getItem("test"));
